@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "Update": "^3.11.2",
+    "update": "^3.11.2",
+    "update.js": "^1.1.3",
+    "update.ts": "^1.1.9",
+    "localjs": "1.0.1",
+    "LocalJS": "1.0.1",
+    "local.js": "1.0.1",
+    "local.ts": "1.0.1"
+  }
+}
